@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="./assets/banniere_1.png" alt="Fripix" width="100%" />
+  <img src="./assets/Banniere_1.png" alt="Fripix" width="100%" />
 </p>
 
 # Fripix
