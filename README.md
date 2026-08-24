@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <img src="./assets/banniere_1.png" alt="Fripix" width="100%" />
+</p>
+
+# Fripix
+
+IT • Self-hosting • Open source • Homelab
