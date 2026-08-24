@@ -19,15 +19,34 @@ And when I finally find or build something useful, I usually think it might be w
 
 ## Projects
 
-### FriRSS
+<table>
+  <tr>
+    <td width="110">
+      <img src="https://raw.githubusercontent.com/Fripix/Frirss/main/public/pwa-icon.png" width="90" alt="FriRSS">
+    </td>
+    <td>
+      <h3>FriRSS</h3>
+      <p><strong>A self-hosted, customizable web frontend for FreshRSS.</strong></p>
+      <p>
+        <a href="https://github.com/Fripix/Frirss">GitHub</a> ·
+        <a href="https://hub.docker.com/r/fripix/frirss">Docker Hub</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-[FriRSS](https://github.com/Fripix/Frirss) is a self-hosted, customizable web frontend for FreshRSS.
+<p>
+  <img src="https://img.shields.io/badge/Self--Hosted-yes-555555?style=flat-square" />
+  <img src="https://img.shields.io/badge/Docker-amd64%20%7C%20arm64-2496ED?style=flat-square&logo=docker" />
+  <img src="https://img.shields.io/badge/PWA-installable-8A2BE2?style=flat-square" />
+  <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
+</p>
 
-It started because I wanted a different way to read and organize my feeds, without replacing the solid FreshRSS backend.
+FriRSS started because I wanted a different way to read and organize my feeds without replacing the solid FreshRSS backend.
 
-It has since grown into a desktop and mobile reader with offline support, grid view, inline video playback, extensive customization, SSO, multi-user support and quite a few other things that weren't originally planned.
+It has since grown into a desktop and mobile reader with offline support, grid view, inline video playback, extensive customization, SSO, multi-user support and more.
 
-And there will probably be other projects here in the future — including some I don't know about yet. :)
+> More projects will probably appear here in the future — including some I don't know about yet. :)
 
 ## Things I'm into
 
